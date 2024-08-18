@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3",
+    "nodemo": "^1.0.0",
+    "path": "^0.12.7"
+  },
+  "name": "my-portfolio-main",
+  "version": "1.0.0",
+  "description": "Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.",
+  "main": "index.js",
+  "bin": {
+    "my-portfolio-main": "bin/script.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
